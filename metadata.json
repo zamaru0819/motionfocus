@@ -1,0 +1,6 @@
+{
+  "name": "MotionFocus Editor",
+  "description": "An automated video editing tool that analyzes pixel data for smart zooming, PiP insertion, and intelligent subtitle distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

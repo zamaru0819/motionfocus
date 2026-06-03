@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Motion Focus</string>
+    <string name="title_activity_main">Motion Focus</string>
+    <string name="package_name">com.motionfocus.app</string>
+    <string name="custom_url_scheme">com.motionfocus.app</string>
+</resources>
